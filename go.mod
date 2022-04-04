@@ -22,8 +22,8 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/ulikunitz/xz v0.5.10
 	github.com/xanzy/go-gitlab v0.50.1
-	gocloud.dev v0.23.0
-	golang.org/x/oauth2 v0.0.0-20210628180205-a41e5a781914
+	gocloud.dev v0.25.0
+	golang.org/x/oauth2 v0.0.0-20220309155454-6242fa91716a
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	gopkg.in/yaml.v2 v2.4.0
 )
